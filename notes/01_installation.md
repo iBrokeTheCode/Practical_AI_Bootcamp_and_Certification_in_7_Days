@@ -50,7 +50,7 @@ You'll know the environment is active when you see `(.venv)` prepended to your t
 
 ### Step 4: Install JupyterLab and Essential ML Libraries
 
-With your virtual environment activated, install `jupyterlab` and other common Machine Learning libraries that you'll likely use in your tutorials.
+With your virtual environment activated, install [`jupyterlab`](https://jupyter.org/install) and other common Machine Learning libraries that you'll likely use in your tutorials.
 
 ```bash
 uv pip install jupyterlab numpy pandas scikit-learn matplotlib seaborn
